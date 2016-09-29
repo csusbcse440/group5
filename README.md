@@ -1,8 +1,9 @@
 # group5
-#Game Name: Playing in Traffic Simulator
+#Game
+## Playing in Traffic Simulator
 Group Members: 
--Eric Tomasso
--Nestor Saavedra
--Ryan Johal	
+- Eric Tomasso
+- Nestor Saavedra
+- Ryan Johal	
 	
 
