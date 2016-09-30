@@ -7,8 +7,9 @@
 - **Additional Members**
   - Visual Artist: Angie *angiegraphs@gmail.com* 
 
-## Game
+## Game Information
 - **Name:** Playing in Traffic Simulator *w/ Goats*
+- **Genre:** Arcade
 
-###### Last Modified: Sep. 30, 2016 1:04AM
+###### Last Modified: Sep. 30, 2016 1:17AM
  
