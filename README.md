@@ -1,9 +1,13 @@
-# group5
-- Eric Tomasso _eric.tomasso@gmail.com_ 
+# Group 5
+###### Last Modified: Sep. 30, 2016 1:04AM
+
+## Members
+- Eric Tomasso @eric-tomasso
 - Nestor Saavedra
-- Ryan Johal	
+- Ryan Johal
+- **Additional Members**
+  - Artist: Angie *angiegraphs@gmail.com* 
 
-**Working Title:** Playing in Traffic Simulator
-
-**Artist:** Angie _angiegraphs@gmail.com_	
-
+## Game
+- **Name:** Playing in Traffic Simulator *w/ Goats* **
+ 
