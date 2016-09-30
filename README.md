@@ -1,7 +1,7 @@
 # Group 5
 
 #### Members
-- Eric Tomasso eric.tomasso@gmail.com
+- Eric Tomasso *eric.tomasso@gmail.com*
 - Nestor Saavedra
 - Ryan Johal
 - **Additional Members**
@@ -11,5 +11,5 @@
 - **Name:** Playing in Traffic Simulator *w/ Goats*
 - **Genre:** Arcade
 
-###### Last Modified: Sep. 30, 2016 1:17AM
+###### Last Modified: Sep. 30, 2016 2:29AM
  
