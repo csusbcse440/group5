@@ -1,5 +1,4 @@
 # Group 5
-###### Last Modified: Sep. 30, 2016 1:04AM
 
 ## Members
 - Eric Tomasso @eric-tomasso
@@ -10,4 +9,6 @@
 
 ## Game
 - **Name:** Playing in Traffic Simulator *w/ Goats* **
+
+###### Last Modified: Sep. 30, 2016 1:04AM
  
