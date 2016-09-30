@@ -1,6 +1,6 @@
 # Group 5
 
-## Members
+#### Members
 - Eric Tomasso @eric-tomasso
 - Nestor Saavedra
 - Ryan Johal
@@ -8,7 +8,7 @@
   - Artist: Angie *angiegraphs@gmail.com* 
 
 ## Game
-- **Name:** Playing in Traffic Simulator *w/ Goats* **
+- **Name:** Playing in Traffic Simulator *w/ Goats*
 
 ###### Last Modified: Sep. 30, 2016 1:04AM
  
