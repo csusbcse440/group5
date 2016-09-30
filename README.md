@@ -5,7 +5,7 @@
 - Nestor Saavedra
 - Ryan Johal
 - **Additional Members**
-  - Artist: Angie *angiegraphs@gmail.com* 
+  - Visual Artist: Angie *angiegraphs@gmail.com* 
 
 ## Game
 - **Name:** Playing in Traffic Simulator *w/ Goats*
