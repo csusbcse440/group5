@@ -3,7 +3,7 @@
 - Nestor Saavedra
 - Ryan Johal	
 
-# **Working Title:** Playing in Traffic Simulator
+**Working Title:** Playing in Traffic Simulator
 
 **Artist:** Angie _angiegraphics@gmail.com_	
 
