@@ -1,8 +1,9 @@
 # group5
-- Eric Tomasso
+- Eric Tomasso _eric.tomasso@gmail.com_ 
 - Nestor Saavedra
 - Ryan Johal	
 
-#Playing in Traffic Simulator
-	
+# **Working Title:** Playing in Traffic Simulator
+
+**Artist:** Angie _angiegraphics@gmail.com_	
 
