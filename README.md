@@ -1,7 +1,7 @@
 # Group 5
 
 #### Members
-- Eric Tomasso @eric-tomasso
+- Eric Tomasso eric.tomasso@gmail.com
 - Nestor Saavedra
 - Ryan Johal
 - **Additional Members**
