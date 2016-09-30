@@ -5,5 +5,5 @@
 
 **Working Title:** Playing in Traffic Simulator
 
-**Artist:** Angie _angiegraphics@gmail.com_	
+**Artist:** Angie _angiegraphs@gmail.com_	
 
