@@ -12,7 +12,6 @@
 ## Game Information
 - **(Tentative) Title:** Playing in Traffic Simulator *w/ Goats*
 - **Genre:** Arcade
-- **
-- **
-###### Last Modified: Oct. 6, 2016 1:26PM
+
+###### Last Modified: Oct. 7, 2016 5:02PM
  
