@@ -7,10 +7,10 @@
 
 #### Additional Members
 - **Sound Design:** Erick Valencia *Valee323@coyote.csusb.edu*
-- **Visual Artist:** Guillermo 
+- **Visual Artist:** Guillermo Corona-Lopez *guillermocoronalopez@gmail.com*
 
 ## Game Information
-- **(Tentative) Title:** Playing in Traffic Simulator *w/ Goats*
+- **(Tentative) Title:** Playing in Traffic Simulator **
 - **Genre:** Arcade
 
 ## Project Management @ http://etroimcasso.ddns.net/cse440/
